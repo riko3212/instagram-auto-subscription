@@ -1,2 +1,1 @@
-# instagram-auto-subscription
-Auto subscription for instagram
+An Instagram followers bot repository on GitHub is a collection of code and resources designed to simplify the process of building a bot to gain followers on Instagram. It includes libraries and tools that allow developers to automate tasks such as following, liking, and commenting on Instagram posts. The repository may also include sample code, documentation, and configuration files to help developers get started with building their own Instagram followers bots. However, it's worth noting that using bots to gain followers goes against Instagram's terms of service and could result in account suspension or termination.
